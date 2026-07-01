@@ -157,6 +157,8 @@ Sentiment Prediction
 
 The model is evaluated using:
 
+<img width="831" height="75" alt="image" src="https://github.com/user-attachments/assets/6b4d574c-49e1-4063-ad79-66618d56a916" />
+
 - BinaryCrossentropy
 - Evaluate
 
@@ -198,6 +200,8 @@ jupyter notebook
 ---
 
 ## 📌 Example Prediction
+
+<img width="527" height="121" alt="Screenshot 2026-07-01 022744" src="https://github.com/user-attachments/assets/3ca3fc9a-119f-4c95-aa4d-51db23051b1e" />
 
 | Review | Prediction |
 |---------|------------|
