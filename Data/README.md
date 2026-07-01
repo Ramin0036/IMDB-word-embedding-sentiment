@@ -1,4 +1,3 @@
-```markdown
 # 🎬 IMDB Dataset of 50K Movie Reviews
 
 A benchmark dataset for **Sentiment Analysis** using IMDb movie reviews.
