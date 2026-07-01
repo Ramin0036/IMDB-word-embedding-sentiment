@@ -203,11 +203,6 @@ jupyter notebook
 
 <img width="527" height="121" alt="Screenshot 2026-07-01 022744" src="https://github.com/user-attachments/assets/3ca3fc9a-119f-4c95-aa4d-51db23051b1e" />
 
-| Review | Prediction |
-|---------|------------|
-| This movie is absolutely fantastic! | Positive 😊 |
-| Worst movie I have ever watched. | Negative 😞 |
-
 ---
 
 ## 👨‍💻 Author : Ramin Allahverdizadeh
@@ -215,4 +210,3 @@ jupyter notebook
 GitHub: https://github.com/Ramin0036
 
 ---
-```
