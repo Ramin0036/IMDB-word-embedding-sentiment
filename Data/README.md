@@ -80,8 +80,6 @@ Common preprocessing steps include:
 
 ---
 
-## 💻 Usage
-
 ### Load Dataset
 
 ```python
