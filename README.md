@@ -150,7 +150,6 @@ Sentiment Prediction
 - **Output Layer:** Sigmoid activation for binary classification
 - **Loss Function:** Binary Crossentropy
 - **Prediction:** Positive or Negative Sentiment
-````
 
 ---
 
