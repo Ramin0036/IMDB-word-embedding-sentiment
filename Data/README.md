@@ -2,12 +2,6 @@
 
 A benchmark dataset for **Sentiment Analysis** using IMDb movie reviews.
 
-![Dataset](https://img.shields.io/badge/Dataset-50K_Reviews-blue)
-![Task](https://img.shields.io/badge/Task-Sentiment_Analysis-green)
-![Language](https://img.shields.io/badge/Language-English-orange)
-![Format](https://img.shields.io/badge/Format-CSV-red)
-![License](https://img.shields.io/badge/Source-Kaggle-yellow)
-
 ---
 
 ## 📌 Overview
