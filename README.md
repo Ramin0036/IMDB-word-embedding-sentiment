@@ -157,12 +157,8 @@ Sentiment Prediction
 
 The model is evaluated using:
 
-- Accuracy
-- Precision
-- Recall
-- F1-Score
-- Confusion Matrix
-- ROC-AUC
+- BinaryCrossentropy
+- Evaluate
 
 ---
 
