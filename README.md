@@ -17,7 +17,7 @@ Instead of traditional feature extraction methods such as Bag of Words or TF-IDF
 - Perform sentiment analysis on movie reviews.
 - Convert text into dense vector representations using Word Embedding.
 - Train a Deep Learning model for binary classification.
-- Evaluate model performance using standard classification metrics.
+- Evaluate model performance.
 
 ---
 
